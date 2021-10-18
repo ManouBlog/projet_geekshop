@@ -1,0 +1,19 @@
+.content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    background-color: rgb(17, 4, 202);
+    
+}
+.ajouter_produit{
+    background-color: rgb(8, 11, 43);
+   
+}
+a{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  
+}
